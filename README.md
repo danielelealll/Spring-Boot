@@ -1,2 +1,2 @@
-# Spring-Boot
-Atividades Spring Boot do curso da Generation.
+# Spring-Boot-hello-world
+Atividade hello world Spring Boot.
